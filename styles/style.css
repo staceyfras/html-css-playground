@@ -1,4 +1,7 @@
-body { /* entire html document inherits this */
+html { /* entire html document inherits this */
 	font-size: 12px;
 	font-family: 'Major Mono Display', monospace;
+}
+p {
+	font-size: 10px;
 }
