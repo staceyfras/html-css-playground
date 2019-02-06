@@ -1,3 +1,4 @@
+/* customized for Github pages*/
 html { /* entire html document inherits this */
 	font-size: 12px;
 	font-family: 'Major Mono Display', monospace;
@@ -15,7 +16,7 @@ p, a {
 	font-size: 10px;
 	color: black;
 }
-#main {
+#main1, #main2, #main3 {
 	text-align: center;
 	color: white;
 }
