@@ -16,7 +16,7 @@ p, a {
 	font-size: 10px;
 	color: black;
 }
-#main1, #main2, #main3 {
+.class {
 	text-align: center;
 	color: white;
 }
