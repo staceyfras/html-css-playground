@@ -16,11 +16,11 @@ p, a {
 	font-size: 10px;
 	color: black;
 }
-a:hover {
-	color: red;
+a:hover, a:active, a:focus {
+	color: darkred;
 }
 a:visited {
-	color: purple;
+	color: blue;
 }
 .return {
 	text-align: center;
