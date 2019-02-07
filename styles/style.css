@@ -16,6 +16,12 @@ p, a {
 	font-size: 10px;
 	color: black;
 }
+a:hover {
+	color: red;
+}
+a:visited {
+	color: purple;
+}
 .return {
 	text-align: center;
 	color: white;
