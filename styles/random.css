@@ -1,6 +1,6 @@
 /* customized for Github pages*/
 html { /* entire html document inherits this */
-	font-size: 12px;
+	font-size: 18px;
 	font-family: 'Major Mono Display', monospace;
 	background-color: #00539F;
 }
@@ -13,7 +13,7 @@ body {
 }
 p, a {
 	display: block;
-	font-size: 10px;
+	font-size: 14px;
 	color: black;
 }
 a:hover, a:active, a:focus {
