@@ -21,3 +21,10 @@ a:hover, a:active, a:focus, a:visited {
 .name {
 	font-family: 'Indie Flower', cursive;
 }
+nav {
+	color: #ffffff;
+	background-color: #FC5622;
+	display: flex;
+	border-style: dotted;
+	justify-content: space-around;
+}
