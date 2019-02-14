@@ -13,7 +13,7 @@ body {
 }
 #pics {
 	background-color: #183944;
-	color: #A8DC9D;
+	color: #ffffff;
 }
 a[href] {
 	color: #ffffff;
@@ -41,5 +41,17 @@ section.intro {
 	background-color: #A8DC9D;
 }
 section.conc {
+	background-color: #4B9999;
+}
+main.dogs {
+	background-color: #A8DC9D;
+}
+section.daph {
+	background-color: #4B9999;
+}
+section.max {
+	background-color: #A8DC9D;
+}
+section.tuck {
 	background-color: #4B9999;
 }
