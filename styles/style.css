@@ -15,7 +15,7 @@ body {
 	background-color: #183944;
 	color: #A8DC9D;
 }
-a {
+a[href] {
 	color: #ffffff;
 }
 a:hover {
