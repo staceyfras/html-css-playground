@@ -15,13 +15,14 @@ body {
 	background-color: #183944;
 	color: #A8DC9D;
 }
-a:hover, a:active, a:focus, a:visited {
-	color: #ffffff;
+a:hover {
+	color: #FAF794;
 }
 .name {
 	font-family: 'Indie Flower', cursive;
 }
 nav {
+	color: #ffffff;
 	background-color: #FC5622;
 	display: flex;
 	border-style: dotted;
