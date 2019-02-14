@@ -12,7 +12,8 @@ body {
   	border: 5px solid black;
 }
 p, a {
-	display: block;
+	display: flex;
+	flex-wrap:  column;
 	font-size: 14px;
 	color: black;
 }
