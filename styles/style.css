@@ -3,8 +3,10 @@ html {
 	font-size: 18px;
 }
 img {
-	overflow: hidden;
-	width: 50%;
+	display: flex;
+	justify-content: center;
+	width: 200px;
+	height: 200px;
 }
 body {
 	background-color: #FAF794;
