@@ -11,7 +11,7 @@ img {
 body {
 	background-color: #FAF794;
 }
-#pics {
+body.pics {
 	background-color: #183944;
 	color: #ffffff;
 }
