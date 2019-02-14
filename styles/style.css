@@ -1,4 +1,4 @@
-ex1.html {
+html {
 	font-family: 'Staatliches', cursive;
 	font-size: 18px;
 }
@@ -7,4 +7,10 @@ img {
 	margin-left: auto;
 	margin-right: auto;
 	width: 50%;
+}
+body {
+	background-color: #FAF794;
+}
+#pics {
+	background-color: #183944;
 }
