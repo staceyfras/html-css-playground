@@ -26,5 +26,6 @@ nav {
 	background-color: #FC5622;
 	display: flex;
 	border-style: dotted;
+	border-color: #ffffff;
 	justify-content: space-around;
 }
