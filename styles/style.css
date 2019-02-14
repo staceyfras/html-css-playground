@@ -11,7 +11,7 @@ img {
 body {
 	background-color: #FAF794;
 }
-body.pics {
+.pics {
 	background-color: #183944;
 	color: #ffffff;
 }
@@ -37,21 +37,21 @@ ul {
 ol {
 	list-style-type: upper-latin;
 }
-section.intro {
+.intro {
 	background-color: #A8DC9D;
 }
-section.conc {
+.conc {
 	background-color: #4B9999;
 }
-main.dogs {
+.dogs {
 	background-color: #A8DC9D;
 }
-section.daph {
+.daph {
 	background-color: #4B9999;
 }
-section.max {
+.max {
 	background-color: #A8DC9D;
 }
-section.tuck {
+.tuck {
 	background-color: #4B9999;
 }
