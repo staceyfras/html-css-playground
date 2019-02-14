@@ -31,3 +31,9 @@ nav {
 	border-color: #ffffff;
 	justify-content: space-around;
 }
+ul {
+	list-style-type: katakana;
+}
+ol {
+	list-style-type: upper-latin;
+}
