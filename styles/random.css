@@ -2,12 +2,12 @@
 html { /* entire html document inherits this */
 	font-size: 18px;
 	font-family: 'Major Mono Display', monospace;
-	background-color: #00539F;
+	background-color: #000000;
 }
 body {
 	width: 300px;
   	margin: 0 auto;
-  	background-color: #FF9500;
+  	background-color: #edde40;
   	padding: 0 20px 20px 20px;
   	border: 5px solid black;
 }
