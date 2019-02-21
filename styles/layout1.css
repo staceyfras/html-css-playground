@@ -3,10 +3,8 @@ body {
 	flex-direction: column;
 }
 header {
-	display: flex;
-	align-self: flex-start;
+	align-items: flex-start;
 }
 footer {
-	display: flex;
-	align-self: flex-end;
+	align-items: flex-end;
 }
