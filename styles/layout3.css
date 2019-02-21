@@ -2,7 +2,7 @@ body {
 	display: flex;
 	flex-direction: column;
 }
-header {
+header, nav {
 	align-items: flex-start;
 }
 footer {
@@ -12,9 +12,9 @@ footer {
 main {
 	display: flex;
 }
-article {
+article, nav {
 	flex-direction: row;
 }
-nav {
+h2 {
 	order: -1;
 }
