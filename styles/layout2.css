@@ -3,12 +3,12 @@ body {
 	flex-direction: column;
 }
 header, main {
-	justify-content: flex-start;
+	align-items: flex-start;
 }
 nav {
-	align-items: flex-start;
+	justify-content: flex-start;
 }
 footer {
 	order: 1;
-	justify-content: flex-end;
+	align-items: flex-end;
 }
