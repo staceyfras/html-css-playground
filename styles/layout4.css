@@ -9,6 +9,9 @@ footer {
 	order: 1;
 	align-items: flex-end;
 }
+article {
+	display: flex;
+}
 section {
 	flex-direction:  column;
 	align-content: flex-start;
