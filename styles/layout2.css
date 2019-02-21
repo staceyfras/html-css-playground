@@ -1,0 +1,13 @@
+body {
+	display: flex;
+}
+header, main{
+	align-items: flex-start;
+}
+nav {
+	justify-content: flex-start;
+}
+footer {
+	order: 1;
+	align-items: flex-end;
+}
