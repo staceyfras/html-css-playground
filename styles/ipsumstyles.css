@@ -1,5 +1,20 @@
-header, footer, nav, article {
+header {
 	border-style: solid;
 	border-color: #000000;
+	border-width: 3px;
+}
+footer {
+	border-style: solid;
+	border-color: #ff7373;
+	border-width: 3px;
+}
+nav {
+	border-style: solid;
+	border-color: #63a884;
+	border-width: 3px;
+}
+article {
+	border-style: solid;
+	border-color: #e5b895;
 	border-width: 3px;
 }
