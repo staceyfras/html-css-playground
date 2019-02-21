@@ -10,5 +10,5 @@ footer {
 	align-items: flex-end;
 }
 section {
-	flex-direction: row;
+	flex-direction: column;
 }
