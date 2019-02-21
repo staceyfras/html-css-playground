@@ -2,9 +2,10 @@ body {
 	display: flex;
 	flex-direction: column;
 }
-header {
+header, main {
 	align-items: flex-start;
 }
 footer {
+	order: -1;
 	align-items: flex-end;
 }
