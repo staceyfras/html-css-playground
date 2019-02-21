@@ -1,4 +1,5 @@
 header, footer, nav, article {
+	border-style: solid;
 	border-color: #000000;
 	border-width: 3px;
 }
