@@ -13,6 +13,7 @@ section {
 	display: flex;
 }
 h3 {
+	order: 1;
 	flex-direction: row;
 }
 p {
