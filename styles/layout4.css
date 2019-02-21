@@ -10,6 +10,5 @@ footer {
 	align-items: flex-end;
 }
 section {
-	flex-direction: row;
-	align-items: stretch;
+	align-content: flex-start;
 }
