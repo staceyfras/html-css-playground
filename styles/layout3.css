@@ -15,3 +15,6 @@ main {
 article {
 	flex-direction: row;
 }
+nav {
+	order: -1;
+}
