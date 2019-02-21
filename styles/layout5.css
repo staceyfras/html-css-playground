@@ -9,6 +9,6 @@ footer {
 	order: 1;
 	align-items: flex-end;
 }
-nav {
+#nav-articles, #nav-one, #nav-two {
 	position: sticky;
 }
