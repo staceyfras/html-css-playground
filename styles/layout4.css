@@ -1,4 +1,4 @@
-body, article {
+body {
 	display: flex;
 	flex-direction: column;
 }
@@ -10,5 +10,6 @@ footer {
 	align-items: flex-end;
 }
 section {
+	flex-direction:  column;
 	align-content: flex-start;
 }
