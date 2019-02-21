@@ -11,6 +11,7 @@ footer {
 }
 section {
 	display: flex;
+	flex-direction: row;
 }
 p {
 	flex-direction:  column;
