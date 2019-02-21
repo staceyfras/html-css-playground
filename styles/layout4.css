@@ -1,4 +1,4 @@
-body {
+body, article {
 	display: flex;
 	flex-direction: column;
 }
@@ -9,12 +9,6 @@ footer {
 	order: 1;
 	align-items: flex-end;
 }
-main {
-	display: flex;
-}
-article, nav {
-	flex-direction: column;
-}
-h2 {
-	order: -1;
+section {
+	flex-direction: row;
 }
