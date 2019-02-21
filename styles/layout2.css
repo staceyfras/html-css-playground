@@ -7,7 +7,9 @@ header, main {
 }
 nav {
 	display: flex;
+	flex-direction: column;
 	justify-content: flex-start;
+	order: -1;
 }
 footer {
 	order: 1;
