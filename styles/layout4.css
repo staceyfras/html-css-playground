@@ -11,6 +11,8 @@ footer {
 }
 section {
 	display: flex;
+}
+h3 {
 	flex-direction: row;
 }
 p {
