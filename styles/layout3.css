@@ -1,0 +1,17 @@
+body {
+	display: flex;
+	flex-direction: column;
+}
+header {
+	align-items: flex-start;
+}
+footer {
+	order: 1;
+	align-items: flex-end;
+}
+main {
+	display: flex;
+}
+article {
+	flex-direction:  row;
+}
