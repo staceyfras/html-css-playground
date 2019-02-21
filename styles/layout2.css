@@ -5,12 +5,9 @@ body {
 header, main {
 	align-items: flex-start;
 }
-nav {
-	display: flex;
-	flex-direction: column;
-	justify-content: flex-start;
-	order: -1;
-}
+/* nav {
+	
+} */
 footer {
 	order: 1;
 	align-items: flex-end;
