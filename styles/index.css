@@ -1,8 +1,10 @@
 html {
-  background: url("../images/background.jpg") no-repeat center center fixed;
-  background-size: cover;
-  height: 100%;
-  overflow: hidden;
+	font-family: 'Staatliches', cursive;
+	font-size: 18px;
+	background: url("../images/background.jpg") no-repeat center center fixed;
+	background-size: cover;
+	height: 100%;
+	overflow: hidden;
 }
 body {
 	display: flex;
@@ -11,16 +13,8 @@ body {
 	bottom: 0;
 	right: 0;
 	left: 0;
-/* 	background-image: url("../images/background.jpg");
-	background-size:  */
-}
-.bkg {
-
 }
 .content {
-	padding: 20px 20px 20px 20px;
-	background: #4e6472;
-	box-shadow: 10px 10px 5px black;
 	margin: auto;
 	text-align: center;
 }
