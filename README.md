@@ -1,2 +1,2 @@
 # test.gihtub.io
-testing GitPages with a super basic website
+Super basic websites as introduction to HTML/CSS/Javascript and for CPSC 349 Front-End Engineering at CSUF
